@@ -63,8 +63,7 @@
 
 <h2 tabindex="-1" class="heading-element" dir="auto">Запуск проекта</h2>
 <ol dir="auto">
-<li>Склонируйте проект: git clone https://github.com/alina-np/rm-project.git </li>
-<li>Перейдите в папку: cd <имя_папки_проекта> </li>
-<li>Запустите сервер разработки: npm run dev </li>
-
+<li>Склонируйте проект: <code>git clone https://github.com/alina-np/rm-project.git</code></li>
+<li>Установите зависимости: <code> npm install</code></li>
+<li>Запустите сервер разработки: <code>npm run dev</code></li>
 </ol>
